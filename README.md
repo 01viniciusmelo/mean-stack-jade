@@ -1,1 +1,1 @@
-"# mean-stack-jade" 
+# mean-stack-jade
