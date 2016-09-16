@@ -1,0 +1,1 @@
+express mean-stack-jade && cd mean-stack-jade && npm install && nodemon ./bin/www
